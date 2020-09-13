@@ -1,1 +1,1 @@
-web: gunicorn trekpools.wsgi --log-file -
+web: gunicorn pools.wsgi --log-file -
