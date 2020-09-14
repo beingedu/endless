@@ -31,7 +31,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../weedstacks" />
   </component>
   <component name="RunManager">
     <configuration name="pools" type="Python.DjangoServer" factoryName="Django server">
@@ -70,11 +70,17 @@
       <workItem from="1599737918882" duration="11337000" />
       <workItem from="1599776161003" duration="4812000" />
       <workItem from="1599874307610" duration="858000" />
-      <workItem from="1600039412379" duration="2880000" />
+      <workItem from="1600039412379" duration="4669000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1600043807690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600043807690" />
   </component>
 </project>
